@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Waheed khAn 
-- 👀 I’m interested in developing Android Apps and learing new technologies in Android Development.
+- 👀 I’m interested in developing Apps and learing new technologies in Android Development.
 - 🌱 I’m currently learning kotlin | Jetpack Compose and more.
 - 💞️ I’m looking to collaborate on open source projects in Jetpack Compose.
 - 📫 Reach me at waheedkhan6446@gmail.com
